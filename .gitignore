@@ -16,3 +16,14 @@
 *.exe
 *.out
 *.app
+.hgignore
+.lock-waf_linux2_build
+.waf*
+build/
+include
+lib
+pebble_app.ld
+resources/
+tools
+waf
+wscript
